@@ -29,7 +29,7 @@ Explore a range of dashboards for Odoo ERP, including CRM, Inventory, Sales, Acc
     # for the full list
     'category': 'Extra Tools',
     'version': '1.1',
-    'price': 1000,
+    'price': 0,
     'currency': 'USD',
     # any module necessary for this one to work correctly
  
